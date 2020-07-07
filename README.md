@@ -27,3 +27,15 @@ Import Link from next/link
 
 <Link href="/"><a>Home</a></Link>
 <Link href="/"><button>Home</button></Link>
+
+#### Bootswatch
+
+- Used for themes and basic site styling (bootstrap)
+
+#### Coindesk
+
+- Cryptocurrency news site
+
+#### Isomorphic-unfetch
+
+- Switches between unfetch & node-fetch for client & server
