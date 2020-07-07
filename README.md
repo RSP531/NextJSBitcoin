@@ -1,9 +1,10 @@
-#A quick app to learn about Next.js
+# A quick app to learn about Next.js
 
-##What is Next.js?
+## What is Next.js?
+
 -Minimalistic framework for rendering react applications on the server
 
-##CORE FEATURES
+## CORE FEATURES
 
 - Server rendered react apps
 - Automatic code splitting (and lazy loading)
@@ -14,7 +15,8 @@
 - Hot Reloading
 - Deployment
 
-##SETUP
+## SETUP
+
 npm init
 npm install next react react-dom
 
