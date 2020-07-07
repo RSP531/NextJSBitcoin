@@ -1,11 +1,12 @@
 import Link from "next/link";
-import NavBar from "../components/navbar";
+import Layout from "../components/Layout";
 //root page
 const Index = () => (
-  <div>
-    <NavBar />
-    <h1>Welcome to my Bitcoin website</h1>
-  </div>
+  <Layout>
+    <div>
+      <h1>Welcome to my Bitcoin website</h1>
+    </div>
+  </Layout>
 );
 
 export default Index;
